@@ -1,0 +1,11 @@
+# config.yaml
+
+git:
+  repo_path: ""
+
+github:
+  token: ""
+  owner: ""
+  repo: ""
+
+refresh_interval: 5  # in seconds
